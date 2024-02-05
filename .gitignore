@@ -1,0 +1,7 @@
+.env
+*.idx
+*.csv
+*.npy
+*.odt
+*.pyc
+*.raw
